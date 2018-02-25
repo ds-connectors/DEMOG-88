@@ -1,9 +1,9 @@
 # demog88
 Jupyter Notebooks for Demography 88 Fa17
-
 [Website](http://courses.demog.berkeley.edu/mason88/Calendar/)
 
-Human population and migration from Lucy to Columbus
+### Aug 28 Human population and migration from Lucy to Columbus
+
 Lab: PopulationGrowth	
 
 ### Sep 04	Post-contact new world demography: The Amerindian population decline demography and politics

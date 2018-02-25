@@ -1,6 +1,5 @@
 # demog88
-Jupyter Notebooks for Demography 88 Fa17
-[Website](http://courses.demog.berkeley.edu/mason88/Calendar/)
+[Demog Fa17 Website](http://courses.demog.berkeley.edu/mason88/Calendar/)
 
 ### Aug 28 Human population and migration from Lucy to Columbus
 

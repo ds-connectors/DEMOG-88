@@ -1,6 +1,8 @@
 # demog88
 Jupyter Notebooks for Demography 88 Fa17
 
+[Website](http://courses.demog.berkeley.edu/mason88/Calendar/)
+
 Human population and migration from Lucy to Columbus
 Lab: PopulationGrowth	
 
@@ -40,6 +42,6 @@ Lab: marielBoatlift0
 
 Lab: marielBoatlift1	
 
-### ov 06	Mariel Boatlift wrap-up
+### Nov 06	Mariel Boatlift wrap-up
 
 Lab: DataSources

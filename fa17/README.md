@@ -1,6 +1,8 @@
 # demog88
 [Demog Fa17 Website](http://courses.demog.berkeley.edu/mason88/Calendar/)
 
+Instructor: Carl Mason
+
 ### Aug 28 Human population and migration from Lucy to Columbus
 
 Lab: PopulationGrowth	
